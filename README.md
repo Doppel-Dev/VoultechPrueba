@@ -27,7 +27,7 @@ Swagger está configurado para permitir la autenticación mediante el botón "Au
    ```bash
    dotnet run --project VoultechTest.Api
    ```
-4. La API estará disponible en `https://localhost:5056` (en mi caso o el puerto configurado por defecto)
+4. La API estará disponible en `http://localhost:5056/swagger/index.html` (en mi caso o el puerto configurado por defecto)
 
 ## Endpoints Principales
 - **Productos**:
