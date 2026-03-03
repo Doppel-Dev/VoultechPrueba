@@ -1,0 +1,15 @@
+C:\Users\Daekh\OneDrive\Escritorio\Proyectos\TestVoultech\VoultechTest.Services\bin\Debug\net10.0\VoultechTest.Services.deps.json
+C:\Users\Daekh\OneDrive\Escritorio\Proyectos\TestVoultech\VoultechTest.Services\bin\Debug\net10.0\VoultechTest.Services.dll
+C:\Users\Daekh\OneDrive\Escritorio\Proyectos\TestVoultech\VoultechTest.Services\bin\Debug\net10.0\VoultechTest.Services.pdb
+C:\Users\Daekh\OneDrive\Escritorio\Proyectos\TestVoultech\VoultechTest.Services\bin\Debug\net10.0\VoultechTest.Domain.dll
+C:\Users\Daekh\OneDrive\Escritorio\Proyectos\TestVoultech\VoultechTest.Services\bin\Debug\net10.0\VoultechTest.Domain.pdb
+C:\Users\Daekh\OneDrive\Escritorio\Proyectos\TestVoultech\VoultechTest.Services\obj\Debug\net10.0\VoultechTest.Services.csproj.AssemblyReference.cache
+C:\Users\Daekh\OneDrive\Escritorio\Proyectos\TestVoultech\VoultechTest.Services\obj\Debug\net10.0\VoultechTest.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daekh\OneDrive\Escritorio\Proyectos\TestVoultech\VoultechTest.Services\obj\Debug\net10.0\VoultechTest.Services.AssemblyInfoInputs.cache
+C:\Users\Daekh\OneDrive\Escritorio\Proyectos\TestVoultech\VoultechTest.Services\obj\Debug\net10.0\VoultechTest.Services.AssemblyInfo.cs
+C:\Users\Daekh\OneDrive\Escritorio\Proyectos\TestVoultech\VoultechTest.Services\obj\Debug\net10.0\VoultechTest.Services.csproj.CoreCompileInputs.cache
+C:\Users\Daekh\OneDrive\Escritorio\Proyectos\TestVoultech\VoultechTest.Services\obj\Debug\net10.0\Voultech.C54172FE.Up2Date
+C:\Users\Daekh\OneDrive\Escritorio\Proyectos\TestVoultech\VoultechTest.Services\obj\Debug\net10.0\VoultechTest.Services.dll
+C:\Users\Daekh\OneDrive\Escritorio\Proyectos\TestVoultech\VoultechTest.Services\obj\Debug\net10.0\refint\VoultechTest.Services.dll
+C:\Users\Daekh\OneDrive\Escritorio\Proyectos\TestVoultech\VoultechTest.Services\obj\Debug\net10.0\VoultechTest.Services.pdb
+C:\Users\Daekh\OneDrive\Escritorio\Proyectos\TestVoultech\VoultechTest.Services\obj\Debug\net10.0\ref\VoultechTest.Services.dll

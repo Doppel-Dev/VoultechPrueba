@@ -1,0 +1,11 @@
+C:\Users\Daekh\OneDrive\Escritorio\Proyectos\TestVoultech\VoultechTest.Domain\bin\Debug\net8.0\VoultechTest.Domain.deps.json
+C:\Users\Daekh\OneDrive\Escritorio\Proyectos\TestVoultech\VoultechTest.Domain\bin\Debug\net8.0\VoultechTest.Domain.dll
+C:\Users\Daekh\OneDrive\Escritorio\Proyectos\TestVoultech\VoultechTest.Domain\bin\Debug\net8.0\VoultechTest.Domain.pdb
+C:\Users\Daekh\OneDrive\Escritorio\Proyectos\TestVoultech\VoultechTest.Domain\obj\Debug\net8.0\VoultechTest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daekh\OneDrive\Escritorio\Proyectos\TestVoultech\VoultechTest.Domain\obj\Debug\net8.0\VoultechTest.Domain.AssemblyInfoInputs.cache
+C:\Users\Daekh\OneDrive\Escritorio\Proyectos\TestVoultech\VoultechTest.Domain\obj\Debug\net8.0\VoultechTest.Domain.AssemblyInfo.cs
+C:\Users\Daekh\OneDrive\Escritorio\Proyectos\TestVoultech\VoultechTest.Domain\obj\Debug\net8.0\VoultechTest.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Daekh\OneDrive\Escritorio\Proyectos\TestVoultech\VoultechTest.Domain\obj\Debug\net8.0\VoultechTest.Domain.dll
+C:\Users\Daekh\OneDrive\Escritorio\Proyectos\TestVoultech\VoultechTest.Domain\obj\Debug\net8.0\refint\VoultechTest.Domain.dll
+C:\Users\Daekh\OneDrive\Escritorio\Proyectos\TestVoultech\VoultechTest.Domain\obj\Debug\net8.0\VoultechTest.Domain.pdb
+C:\Users\Daekh\OneDrive\Escritorio\Proyectos\TestVoultech\VoultechTest.Domain\obj\Debug\net8.0\ref\VoultechTest.Domain.dll

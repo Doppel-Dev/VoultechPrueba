@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="VoultechTest.Api/VoultechTest.Api.csproj" />
+  <Project Path="VoultechTest.Domain/VoultechTest.Domain.csproj" />
+  <Project Path="VoultechTest.Infrastructure/VoultechTest.Infrastructure.csproj" />
+  <Project Path="VoultechTest.Services/VoultechTest.Services.csproj" />
+  <Project Path="VoultechTest.Tests/VoultechTest.Tests.csproj" />
+</Solution>

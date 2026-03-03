@@ -1,0 +1,81 @@
+# **Tarea Técnica - Desarrollo de una REST API en .NET**
+
+### **Objetivo**
+
+Desarrollar una API REST en .NET o .NET Core que administre un sistema de gestión de órdenes de compra. La API debe permitir la creación, consulta, actualización y eliminación de órdenes, así como la gestión de los productos asociados. Puede ser dockerizado o no
+
+### **Requerimientos Técnicos**
+
+1. **Tecnologías**:
+    - .NET o .NET Core
+    - C#
+    - Base de datos de [SQL Server local](https://www.jasoft.org/Blog/post/que-es-sql-server-localdb-como-instalarlo-usarlo-y-actualizarlo) (o lo más simple)
+    - API REST con controladores
+    - JSON como formato de respuesta
+    - Manejo de excepciones y validaciones
+    
+2. **Entidades Principales**:
+- **Orden de Compra**
+    - `Id` (int, autoincremental)
+    - `Cliente` (string, obligatorio)
+    - `FechaCreacion` (DateTime, autogenerado)
+    - `Total` (decimal, calculado según productos)
+- **Producto**
+    - `Id` (int, autoincremental)
+    - `Nombre` (string, obligatorio)
+    - `Precio` (decimal, obligatorio)
+- Orden Producto
+    - `Id` (int, autoincremental)
+    - `OrdenId` (foreign key a orden)
+    - `ProductoId` (foreign key a productol)
+    
+    ---
+    
+
+1. **Endpoints**:
+    - `POST /ordenes`: Crear una nueva orden de compra con productos.
+    - `GET /ordenes`: Listar todas las órdenes de compra.
+    - `GET /ordenes/{id}`: Obtener una orden de compra específica.
+    - `PUT /ordenes/{id}`: Editar una orden de compra existente.
+    - `DELETE /ordenes/{id}`: Eliminar una orden de compra y todas sus asociaciones.
+    - `POST /productos`: Crea un nuevo producto.
+    - `GET /productos`: Listar todos los productos.
+    
+    ---
+    
+
+## 🔥 Bonus
+
+- **Cálculo de Descuento Dinámico (Algoritmo Personalizado)**
+    - Implementar un descuento automático en el total de la orden de compra según las siguientes reglas:
+        - Si el total de la orden supera los **$500**, aplicar un **10% de descuento**.
+        - Si la orden tiene más de **5 productos distintos**, aplicar un **5% adicional**.
+    - Este cálculo debe realizarse sin usar librerías de terceros, solo C# nativo.
+
+---
+
+### 📃 **Criterios de Evaluación**
+
+- Correcta implementación de los endpoints y lógica de negocio.
+- Código limpio y estructurado (SOLID, buenas prácticas).
+- Manejo adecuado de excepciones y validaciones.
+- Facilidad de despliegue y documentación (README con instrucciones).
+
+### 🕝 **Entrega**
+
+El candidato debe entregar:
+
+- Código fuente en un repositorio Git público
+- Archivo README con instrucciones para correr el proyecto.
+- (Opcional) Capturas de Postman u otra herramienta mostrando las pruebas de la API.
+
+⏳ **Plazo: Hasta el Viernes 06 de marzo 11:00 am hrs**
+
+📩 **Formato de entrega: Enlace a repositorio público de git**
+
+> **Extras (Opcional, pero valorado)
+-** Uso de Swagger para documentación.
+- Implementación de paginación en la lista de órdenes.
+- Uso de Dependency Injection y separación en capas (Servicios y Repositorios).
+- Pruebas unitarias básicas con xUnit.
+- Toda innovación es valorada y bienvenida!

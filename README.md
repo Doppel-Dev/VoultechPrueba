@@ -49,6 +49,7 @@ Para ejecutar las pruebas unitarias:
 ```bash
 dotnet test
 ```
+Las 4 pruebas abarcan los casos sin descuento, descuento del 10%, descuento del 5% y por ultimo la combinación de las 2 reglas
 
 ## Screenshot
 Deje pruebas con postman y de swagger en la carpeta screenshots
